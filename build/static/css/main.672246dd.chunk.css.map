@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAKA,oBAJE,UAAW,CACX,WAOF,CAJA,eAGE,iBACF","file":"main.672246dd.chunk.css","sourcesContent":[".App {\n  width: 100%;\n  height: 100%;\n}\n\n#sample-canvas {\n  width: 100%;\n  height: 100%;\n  touch-action: none;\n}\n"]}
